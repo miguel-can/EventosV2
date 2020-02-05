@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace SOLID
 {
     public class EventosDTO
-    {
+    {	    
         public string cEvento { get; set; }
         public DateTime dtEvento { get; set; }
         public double iTotalHOras { get; set; }
@@ -15,5 +15,6 @@ namespace SOLID
         public double iTotalMeses { get; set; }
         public double iTotalMinutos { get; set; }
         public string cEventoImprime { get; set; }
+		public string cTest { get; set; }
     }
 }

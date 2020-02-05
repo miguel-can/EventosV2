@@ -13,7 +13,8 @@ namespace SOLID.Data.Enum
             MES = 1,
             DIA = 2,
             HORA = 3,
-            MINUTO = 4
+            MINUTO = 4,
+			BIMESTRE = 5
         }
     }
 }

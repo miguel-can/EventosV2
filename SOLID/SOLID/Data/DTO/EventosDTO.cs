@@ -15,6 +15,5 @@ namespace SOLID
         public double iTotalMeses { get; set; }
         public double iTotalMinutos { get; set; }
         public string cEventoImprime { get; set; }
-		public string cTest { get; set; }
     }
 }
